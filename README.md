@@ -1,5 +1,5 @@
 # King County Housing Prediction Model
-This project uses linear regreesion to forecast housing prices in King County, Washington.This project leverages a dataset containing various attributes of homes sold in the area, such as square footage, number of bedrooms and bathrooms, location, and other relevant features. By applying regression techniques, the model aims to provide accurate predictions that can assist homebuyers, sellers, and real estate professionals in making informed decisions.
+This project uses linear regression to forecast housing prices in King County, Washington.This project leverages a dataset containing various attributes of homes sold in the area, such as square footage, number of bedrooms and bathrooms, location, and other relevant features. By applying regression techniques, the model aims to provide accurate predictions that can assist homebuyers, sellers, and real estate professionals in making informed decisions.
 
 **Authors**: 
 - [@bouzart](https://github.com/bourzat)
