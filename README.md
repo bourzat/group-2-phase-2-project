@@ -61,7 +61,7 @@ Increasing the square footage of living space positively impacts the price of a 
 - We need to look into other algorithms such as decision trees to boost the performance of our overall model.
 
 ## For More Information
-See the full analysis in the [Juptyer Notebook](index.ipynb) or review this [presentation](./Final_Project_Presentation.pdf)
+See the full analysis in the [Juptyer Notebook](index.ipynb) or review this [presentation](./Phase 2 Project Presentation.pdf)
 
 ## Repository Structure
 
@@ -70,7 +70,7 @@ See the full analysis in the [Juptyer Notebook](index.ipynb) or review this [pre
 ├── images
 ├── notebooks
 ├── .gitignore
-├── Final_Project_Presentation.pdf
+├──  Phase 2 Project Presentation.pdf
 ├── index.ipynb
 ├── README.md
 ```
