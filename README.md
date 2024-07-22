@@ -26,7 +26,7 @@ The dataset used for this project includes housing sales data from King County, 
 Following the CRISP-DM methodology, we cleaned and performed Exploratory Data Analysis (EDA) on our data, aiming to uncover key patterns and relationships. It provides insights into housing market trends in King County, Washington, from 2014-2015, highlighting influential factors like square footage, bedrooms, and bathrooms. It also employs linear regression to model the relationship between housing prices and key predictors from the KC Housing dataset. This statistical approach predicts prices based on features such as property size and amenities, aiding stakeholders in strategic decision-making.
 
 ## Results
-Based on our EDA, we identified price, bathrooms, sqft_living ,grade, sqft_above, sqft_living15 as columns that have a linear relationship and the highest correlation to price indicating that these variables cause an increase in price. The figures below show the scatters plot between sqft_living and price as well as sqft_above and price showing a linear relationship between the two variables:
+Based on our EDA, we identified price, bathrooms, sqft_living ,grade, sqft_above, sqft_living15 as columns that have a linear relationship and the highest correlation to price indicating that an increase in these variables cause an increase in price. The figures below show the scatters plot between sqft_living and price as well as sqft_above and price showing a linear relationship between the two variables:
 
 ![scatterplot sqft_living and price](./images/scatter_plot1.png)
 
