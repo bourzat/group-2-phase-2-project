@@ -40,10 +40,13 @@ Based on the above, we followed an iterative approach to modelling, starting wit
 
 ## Conclusions
 In line with our objectives, we concluded on the following:
+
 **1. Determine which features have the most significant impact on house prices.**
 - Features such as sqft_living ,grade,  sqft_above, sqft_living15, bathrooms and sqft_base have the most significant impact on price due to ther positve correlation to price.
+
 **2. Examine the correlations between different features and house prices to identify strong relationships.**
  - sqft_living shows the strongest positive correlation of  0.701917. this means that increase in sqft_living increases the price of the house.
+ 
 **3. Build a predictive model to estimate house prices based on features.**
 - The model has a moderate R² score, suggesting it captures some, but not all, of the variability in house prices.
 - The MSE is relatively low compared to the variance of house prices, indicating credible model accuracy for our predictions.
