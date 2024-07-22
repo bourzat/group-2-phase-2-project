@@ -1,5 +1,5 @@
 # King County Housing Prediction Model
-This project uses linear regression to forecast housing prices in King County, Washington.This project leverages a dataset containing various attributes of homes sold in the area, such as square footage, number of bedrooms and bathrooms, location, and other relevant features. By applying regression techniques, the model aims to provide accurate predictions that can assist homebuyers, sellers, and real estate professionals in making informed decisions.
+This project uses linear regression to forecast housing prices in King County, Washington. This project leverages a dataset containing various attributes of homes sold in the area, such as square footage, number of bedrooms and bathrooms, location, and other relevant features. By applying regression techniques, the model aims to provide accurate predictions that can assist homebuyers, sellers, and real estate professionals in making informed decisions.
 
 **Authors**: 
 - [@bouzart](https://github.com/bourzat)
@@ -13,7 +13,7 @@ This project uses linear regression to forecast housing prices in King County, W
 The unpredictability of house prices poses a significant challenge for various stakeholders, including potential homebuyers and real estate agents. These stakeholders require accurate and reliable house price predictions to make informed decisions. Homebuyers need to understand market trends to make prudent purchasing decisions while the  real estate agents need accurate data to advise their clients effectively.
 
 ## Objectives
-Our role as data scientists is to develop a  house price prediction model that meet the following objects-:
+Our role as data scientists is to develop a house price prediction model that meet the following objectives:-
 
 1. Determine which features have the most significant impact on house prices.
 2. Examine the correlations between different features and house prices to identify strong relationships.
@@ -26,7 +26,7 @@ The dataset used for this project includes housing sales data from King County, 
 Following the CRISP-DM methodology, we cleaned and performed Exploratory Data Analysis (EDA) on our data, aiming to uncover key patterns and relationships. It provides insights into housing market trends in King County, Washington, from 2014-2015, highlighting influential factors like square footage, bedrooms, and bathrooms. It also employs linear regression to model the relationship between housing prices and key predictors from the KC Housing dataset. This statistical approach predicts prices based on features such as property size and amenities, aiding stakeholders in strategic decision-making.
 
 ## Results
-Based on our EDA, we identified price, bathrooms, sqft_living ,grade, sqft_above, sqft_living15 as columns that have a linear relationship and the highest correlation to price indicating that these variables cause an increase in price as they increase. The figures below shows the scatter plot between sqft_living and price as well as sqft_above and price showing a linear relationship between the two variables:
+Based on our EDA, we identified price, bathrooms, sqft_living ,grade, sqft_above, sqft_living15 as columns that have a linear relationship and the highest correlation to price indicating that these variables cause an increase in price. The figures below show the scatters plot between sqft_living and price as well as sqft_above and price showing a linear relationship between the two variables:
 
 ![scatterplot sqft_living and price](./images/scatter_plot1.png)
 
